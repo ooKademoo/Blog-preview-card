@@ -1,0 +1,62 @@
+body{
+   background-color:hsl(47, 88%, 63%) ;
+   font-size: 16px;
+   font-family: "Figtree",sans-serif;
+   height: 100vh;
+   
+}
+.container{
+    background-color: white;
+    width: 370px;
+    margin: 200px 750px ;
+    border-radius: 20px;
+    border-color: black ;
+    border-style: solid;
+    border-width: 2px;
+    box-shadow: 15px 15px;
+}  
+.img-card{
+   border-radius: px;
+   padding: 17px ;
+}  
+.img-card img{
+   border-radius: 10px;
+}
+.content-card{
+   padding: 15px;
+   padding-left: 20px;
+}
+.Learning{
+   background-color:hsl(47, 88%, 63%) ;
+   max-width: max-content;
+   padding: 12px;
+   border-radius: 10px;
+   margin-top: -5px;
+}
+.pub{
+   font-weight: bolder;
+}
+h2:hover{
+   color:hsl(47, 88%, 63%);
+   cursor:pointer;
+   
+}
+.descripion p{
+   line-height: 1.5;
+}
+.user{
+   margin-left: 20px;
+   padding-bottom: 30px;
+   display: inline-flex;
+}
+.user img{
+   width: 40px;
+}
+.user a{
+   color: black;
+   font-weight:bold;
+   margin: 10px; 
+   padding-left: 7px;
+   text-decoration: none;
+}
+ 
